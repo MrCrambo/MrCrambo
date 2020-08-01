@@ -1,6 +1,6 @@
 ### Hi there, I'm Ilnar - aka [MrCrambo](https://github.com/MrCrambo) 👋
 
-## I'm the Android, Python adn Cpp developer!
+## I'm the Android, Python and Cpp developer!
 - 🔭 I’m currently working at [Navigine](https://navigine.com) team!
 - 🌱 I’m currently learning Cpp and Native app development for mobile devices!
 - 👯 I’m looking to collaborate with other content creators!
