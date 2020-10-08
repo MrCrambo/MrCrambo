@@ -2,7 +2,7 @@
 
 ## I'm the Android, Python and Cpp developer!
 - 🔭 I’m currently working at [Navigine](https://navigine.com) team!
-- 🔭 I’m the Smart Contract security auditor at [TechRate](http://techrate.com)!
+- 🔭 I’m the Smart Contract security auditor at [TechRate](http://techrate.org)!
 - 🌱 I’m currently learning Cpp and Native mobile apps development!
 - 🥅 2020 Goals:
   - End up with coding Game Engine!
