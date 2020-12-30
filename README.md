@@ -2,14 +2,7 @@
 
 ## I'm the Android, Python and Cpp developer!
 - 🔭 I’m currently working at [Navigine](https://navigine.com) team!
-- 🔭 I’m the Smart Contract security auditor at [TechRate](http://techrate.org)!
 - 🌱 I’m currently learning Cpp and Native mobile apps development!
-- 🥅 2020 Goals:
-  - End up with coding Game Engine!
-  - Publish 3 mobile apps on store!
-  - Finish 40 algorithms!
-  - Audit 100 Solidity smart contracts!
-- ⚡ Fun fact: I'm started developing my own [Drakosha Game Engine](https://github.com/MrCrambo/Drakosha)
 
 ### Connect with me:
 
