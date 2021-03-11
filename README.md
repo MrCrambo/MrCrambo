@@ -6,10 +6,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="MrCrambo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="MrCrambo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MrCrambo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="MrCrambo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="MrCrambo | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="MrCrambo | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 <br />
 
 ### Languages and Tools:
@@ -33,7 +32,6 @@
 
 <img align="left" alt="MrCrambo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MrCrambo&show_icons=true&hide_border=true" />
 
-[twitter]: https://twitter.com/mrCramble
 [linkedin]: https://www.linkedin.com/in/il-kadyrov-78018511a/
 [medium]: https://medium.com/@mrcrambo
 [stackoverflow]: https://stackoverflow.com/users/13658487/il-kadyrov?tab=profile
