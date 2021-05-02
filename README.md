@@ -1,6 +1,9 @@
 ### Hi there, I'm Il - aka [MrCrambo](https://github.com/MrCrambo) 👋
 
-## I'm the Android, Python and Cpp developer!
+## I'm the Android, Python, Cpp and Solidity developer!
+- 💻 I'm currently the Co-Founder of the Techrate.
+- 🛠 More than 500 Smart Contracts audited!
+- 🚀 More than 100k active visitors at [Techrate repository](https://github.com/TechRate/Smart-Contract-Audits). 
 - 🌱 I’m currently learning Cpp and Native mobile apps development!
 
 ### Connect with me:
